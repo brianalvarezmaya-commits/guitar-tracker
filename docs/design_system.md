@@ -11,7 +11,7 @@
 ## Tipografía
 
 - Fuente principal: 'Roboto', sans-serif
-- Tamaño base: 16px
+- Tamaño base: 18px
 
 ## Componentes
 
