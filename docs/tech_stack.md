@@ -11,4 +11,4 @@
 ## Fase 3
 - React
 - Firebase (Firestore + Auth)
-- Deploy en Vercel o Netlify
+- Deploy en Vercel

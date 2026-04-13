@@ -4,7 +4,7 @@
 GuitarTracker es una aplicación web que permite a los usuarios registrar, organizar y visualizar su colección de guitarras de forma sencilla.
 
 ## Usuario Objetivo
-Músicos, aficionados a la guitarra y coleccionistas que desean llevar un control visual de sus instrumentos.
+Músicos, aficionados a la guitarra y coleccionistas que desean llevar un control visual a sus instrumentos.
 
 ## Funcionalidades Principales
 
@@ -17,4 +17,3 @@ Músicos, aficionados a la guitarra y coleccionistas que desean llevar un contro
 
 - No requiere inicio de sesión en la primera versión
 - Los datos se almacenarán en LocalStorage
-- Diseño Mobile First
